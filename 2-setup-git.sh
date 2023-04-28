@@ -7,3 +7,4 @@ git config --global user.email "ket.rivers@proton.me"
 git config --global credential.helper store
 # After the next git push/pull, after you enter user name and password
 # the credentials will be saved localy -- in plain text -- so be warned!!!
+# https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git
